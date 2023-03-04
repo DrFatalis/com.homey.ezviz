@@ -1,20 +1,20 @@
 {
-  "id": "com.homey.gotify",
+  "id": "com.homey.ezviz",
   "version": "1.1.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "brandColor": "#66c7ed",
+  "brandColor": "#dc0a7f",
   "platforms": [
     "local"
   ],
   "name": {
-    "en": "Gotify client"
+    "en": "Ezviz"
   },
   "description": {
-    "en": "Gotify client to send notifications to your gotify server"
+    "en": "Ezviz client to connect your cameras to Homey"
   },
   "category": [
-    "appliances"
+    "security"
   ],
   "permissions": [],
   "images": {

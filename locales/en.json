@@ -3,10 +3,9 @@
   "device_notValid": " is not valid",
   "device_unavailable": "URL cannot be reached",
   "pair": {
-    "title": "Gotify App Settings",
+    "title": "Ezviz App Settings",
     "description": "Please configure the application",
-    "gotifyServerUrl": "Gotify server URL",
-    "gotifyAppToken": "Application token",
-    "gotifyAppName": "Application name"
+    "ezvizUsername": "Ezviz username",
+    "ezvizPassword": "Ezviz password"
   }
 }
